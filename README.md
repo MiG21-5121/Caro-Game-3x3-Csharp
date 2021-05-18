@@ -1,8 +1,8 @@
 # Caro-Game-3x3-Csharp
 Caro Game 3x3 C# by Nguyen Anh Quan
 
-> Download "tictactoe-3x3.rar" and extract it to receive "tictactoe-3x3.exe" !\
-> Game Language : Vietnamese
+- Download "tictactoe-3x3.rar" and extract it to receive "tictactoe-3x3.exe" !\
+- Game Language : Vietnamese
 
 Some command :\
 c : view copyright\
