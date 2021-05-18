@@ -8,4 +8,4 @@ Some command :\
 c : view copyright\
 h : hack game with code "game.hack.bit64 <player> to winner_cross"
   
-Thank you ! 
+Just for fun :))
